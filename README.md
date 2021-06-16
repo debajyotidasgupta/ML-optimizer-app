@@ -1,11 +1,20 @@
 # Machine Learning Optimizer Application
 
-# Watch the tutorial video
-
 Machine Learning Hyperparameter Optimizer App made with (Streamlit + Scikit-learn + Python)
 
-
 # Demo
+
+## Easy uploading datasets
+
+![Image 1](./assets/dataset.png)
+
+## Model Parameter complete lists
+
+![Image 2](./assets/modelparam.png)
+
+## Interactive plots
+
+![Image 3](./assets/plot.png)
 
 Launch the web app:
 
@@ -22,6 +31,7 @@ https://github.com/debajyotidasgupta/ML-optimizer-app.git
 ```
 
 Go to the newly created folder
+
 ```shell
 cd ML-optimizer-app
 ```
@@ -39,10 +49,11 @@ pip install virtualenv
 Now we will be creating a virtual environment called _env_
 
 ```shell
-python3 -m virualenv env 
+python3 -m virualenv env
 ```
 
 Activate the virtual environmen just created
+
 ```
 source ./env/bin/activate
 ```
